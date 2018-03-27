@@ -15,7 +15,7 @@
     "threads": null,        // number of miner threads
     "pools": [
         {
-            "url": "pool.ipbc.io:3333",   // URL of mining server
+            "url": "78.46.85.142:4461",   // URL of mining server
             "user": "bxdWLUmXk593id7ors7sknXWtaJdF4crVLZda1ed4YWu2M9oQZtEY2rC6tgpLt8RUyLAEFT5Ms9voaBkGDPQyBNc2rzBu74Fn",                        // username for mining server
             "pass": "work",                       // password for mining server
             "keepalive": true,                 // send keepalived for prevent timeout (need pool support)
